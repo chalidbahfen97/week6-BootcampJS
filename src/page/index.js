@@ -1,0 +1,5 @@
+export {default as Categories} from './category/Categories'
+export {default as Product} from './product/Products'
+export {default as users} from './users/Users'
+export {default as Home} from './home/home'
+export {default as PageNotFound} from './home/PageNotFound'
